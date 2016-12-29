@@ -12,7 +12,7 @@ public class UserController {
 
     @RequestMapping("getUserInfo")
     public String getUserInfo(){
-        return "yao yao";
+        return "yao yao , this is new branch";
     }
 
 }
